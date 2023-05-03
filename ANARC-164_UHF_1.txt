@@ -1,0 +1,4 @@
+Incirlik ATC|249.0
+Incirlik ATIS|249.5
+Common|253.0
+Guard|243.0
